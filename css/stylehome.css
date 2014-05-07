@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* CSS Document */
+body{ margin:0; padding:0;}
+
+#main{ margin:0 auto 0px auto; padding:0; text-align:center; width:1280px; height:auto;}
+.logo{ width:1280px; height:200px; text-align:center; background:url(../images/jobs_castle_logo.png) no-repeat center bottom; margin:0 auto 80px 0;}
+.textbar{ width:1280px; height:auto; margin:0 auto; padding:0;  text-align:center;}
+.box_one{ width:350px; height:30px; margin-right:5px; font-family:"Century Gothic"; font-size:16px; border:1px solid #dbdbdb;}
+.box_two{ width:244px; height:30px; margin-left:5px; padding:0; font-family:"Century Gothic"; font-size:16px;  border:1px solid #dbdbdb;}
+.rule_style{ border:1px solid inset #999;}
+.search{ width:180px; height:34px; margin-top:40px; background:#1599de; border-radius:5px; -moz-border-radius:5px; border:1px #1599de outset; color:#fff; font-size:12px; font-family:Arial; font-weight:bold;}
+.footer{ width:1280px; height:auto; text-align:center; font-family:Arial; font-size:12px; margin:100px auto 0 auto; letter-spacing:.50px; line-height:20px;}
+.footer a{ text-decoration:none; color:#000;}
+.footer a:hover{ color:#1599de;}
+.copyright{ height:auto; width:auto; font-family:Arial; font-size:12px; color:#6f6f6f; text-align:center;}
+.links{ width:1280px; text-align:right; height:auto; font-family:Arial, Helvetica, sans-serif; font-size:13px; margin:0 auto; }
+.links a{text-decoration:none; color:#000; padding:0px 10px;}
+.links a:hover{ text-decoration:underline;}
+
+
+
+
+
+
+
+
+
+#header_logo{ width:1280px; height:100px; margin:0 auto; padding:0; text-align:left; overflow:hidden;}
+.left_head{ float:left; width:500px; height:auto;}
+.reight_head{
+	float:right;
+	width:241px;
+	text-align:right;
+	margin-top:45px;
+	height:auto;
+}
+
+.menubar_main{
+	width:100% !important;
+	height:auto;
+	background:url(../images/nav-bg.png) repeat-x;
+	overflow: hidden
+	;
+	display: block;
+}
+.reg_footer{ width:1280px; height:auto; text-align:center; font-family:Arial; font-size:12px; margin:10px auto 0 auto; letter-spacing:.50px; line-height:20px;}
+.reg_footer a{ text-decoration:none; color:#000;}
+.reg_footer a:hover{ color:#1599de;}
+.reg_search{ margin-left:0px; padding:0; width:200px; height:30px;}
+
+
+
+#reg_maindiv{ width:1280px; height:400px; margin:25px auto 0 auto; padding:0; overflow:hidden;} 
+.reg_left{ float:left; width:996px; height:350px; background-image:url(../images/login-bg.png); background-repeat:repeat-x; background-position:bottom; background-color:#dadada; margin:0; padding:0;box-shadow: 5px 5px 5px #888888; }
+.reg_reight{ float:left; width:212px; height:318px; margin:0 0 0 20px; padding:15px 20px; color:#5e5e5e; font-family:Arial; font-size:12px; background:url(../images/login-bg.png) repeat-x;box-shadow: 5px 5px 5px #888888; border:1px solid #dadada;}
+.email_password{ width:200px; height:25px; font-family:"Century Gothic"; font-size:14px; border:1px solid #dbdbdb; margin:5px 0 0 0; border-radius:3px; -moz-border-radius:3px;}
+
+.login_button{ height:20px; padding:0 10px; background:#1599de; border-radius:5px; -moz-border-radius:5px; border:1px #1599de outset; color:#fff; font-size:12px; font-family:Arial; font-weight:bold;}
+.login_bg{ width:auto; height:318px; padding:0 5px;box-shadow: 2px 2px 2px #888888; background:#fff; }
+.forgot_register{ font-size:13px;}
+.forgot_register a{ text-decoration:none; color:#5e5e5e;}
+.forgot_register a:hover{
+	color:#C5C5C5;
+}
+
+
+
+
+
+.login_button_gray{ height:20px; padding:0 10px; background:#70706e; border-radius:5px; -moz-border-radius:5px; border:1px #464646 outset; color:#fff; font-size:12px; font-family:Arial; font-weight:bold;}
+.header_menubar_gray{ width:auto; height:auto; background:url(../images/nav-bg-gray.png) repeat-x;}
+
+
+div.clear_both {
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+    clear: both;
+}
+
+
+
+.header_right_main_div{ width:500px; height:100px; float:right;}
+
+
+
+#horizontalmenu{ float:right; z-index:+10; }
+
+#horizontalmenu ul {
+padding:1; margin:1; list-style:none;
+}
+#horizontalmenu li {
+float:left; position:relative; padding:3px 0; display:block;
+border:3px solid #9dc2d6;
+border-style:inset;
+margin:0 2px 0 0;
+ border-radius:5px; -moz-border-radius:5px;
+ background:url(../images/top_div_bg.png) repeat-x;
+}
+#horizontalmenu li a{ font-family:Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none; color:#fff; padding:0 15px;}
+#horizontalmenu li a:hover{}
+#horizontalmenu li ul { padding:2px 0 0 0;
+	width:120px;
+    display:none;
+position:absolute;
+margin-top:5px;
+}
+#horizontalmenu li:hover ul{
+    display:block;
+	border:1px solid #CCC;
+height:auto; width:120px;
+}
+#horizontalmenu li ul li{
+	width:100%;
+	background:none;
+    clear:both;
+border-style:none;}
+#horizontalmenu li ul li a{ padding:0px 5px; font-size:11px; color:#999999; width:100%;}
+#horizontalmenu li ul li a:hover{
+background:#6699CC; color:#fff; width:100%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.logo_employer{ width:1280px; height:200px; text-align:center; background:url(../images/jobs_employer_logo.png) no-repeat center bottom; margin:0 auto 80px 0;}
+
+
+

@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{ margin:0; padding:0;background: #fff url(../images/bg.jpg) repeat top left;}
+#header{ width:1280px; min-height:100px; height:auto; margin:0 auto; padding:12px;}
+.header_div_left{ float:left; width:1280px; height:auto;}
+/*.header_div_reight{ float:right; width:300px; min-height:50px; height:auto; margin-top:10px; text-align:center;}*/
+
+
+
+
+
+
+#horizontalmenu{ height:50px; font-family:Arial, Helvetica, sans-serif; color:#999999;}
+
+
+#horizontalmenu ul {
+padding:1; margin:1; list-style:none;
+}
+#horizontalmenu li {
+float:left; position:relative; padding:3px 0; display:block;
+margin:0;
+
+
+}
+#horizontalmenu li a{ font-family:Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none; color: #0083C1; padding:0;}
+#horizontalmenu li a:hover{}
+#horizontalmenu li ul { padding:2px 0 0 0;
+	width:120px;
+    display:none;
+position:absolute;
+margin-top:2px;
+}
+#horizontalmenu li:hover ul{
+	margin-left:-10px;
+    display:block;
+	border:1px solid #CCC;
+height:auto; width:120px;
+}
+#horizontalmenu li ul li{
+	width:100%;
+	background:none;
+    clear:both;
+border-style:none;}
+#horizontalmenu li ul li a{ padding:0px 5px; font-size:11px; color:#999999; width:100%;}
+#horizontalmenu li ul li a:hover{
+background:#6699CC; color:#fff; width:100%;}
+
+
+
+
+
+#menubar{ width:auto; height:30px; border-bottom:1px solid #666666;}
+#menubar_main{ width:1280px; height:30px; background-color:#666666; ; margin:0 auto; padding:0; border-radius:5px 5px 0 0; -moz-border-radius:5px 5px 0 0;  border-bottom:1px solid #2699d6; overflow:hidden;}
+.menu{ width:950px; height:30px; float:left; }
+
+
+
+.menu ul{ margin:0; padding:0;}
+.menu ul li{ list-style-type:none; float:left; margin:5px 0 0 0; padding:0; }
+.menu ul li a{ font-family:Arial, Helvetica, sans-serif; font-size:14px; padding:0 10px 0 10px; text-decoration:none; color:#fff;}
+.menu ul li a:hover{ color:#D3D3D3;}
+.menu_span{font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#fff; margin:0 8px;}
+
+.search_div{ width:230px; height:25px; margin-top:4.5px; float:right; text-align:right;}
+
+
+
+
+div.clear_both{ margin:0; padding:3px; font-size:0; height:0; line-height:0; clear:both;}
+
+textarea {
+border-style: ridge;
+background:#003399;
+background-repeat: repeat;
+margin: 1px 1px 1px 5px;
+
+}
+
+
+
+
+
+#reg_maindiv{ width:1280px; min-height:400px; height:auto; margin:25px auto 0 auto; padding:0 8px 25px 0; overflow:hidden; }
+/*.reg_left{ float:left; width:294px; min-height:318px; height:auto; margin:0 0 0 20px; padding:15px 15px; color:#5e5e5e; font-family:Arial; font-size:12px;box-shadow: 5px 5px 5px #888888; border:1px solid #dadada;} */
+.reg_left{width:700px; min-height:350px; height:auto; background-color:#CCCCCC; margin:0; padding:0;box-shadow: 5px 5px 5px #888888;}
+.reg_reight{ float:right; width:260px; min-height:318px; height:auto; margin:0 0 0 20px; padding:15px 15px; color:#5e5e5e; font-family:Arial; font-size:12px;box-shadow: 5px 5px 5px #888888; border:1px solid #dadada;}
+#content{width:996px;height:auto;box-shadow: 5px 5px 5px #888888; min-height:150px;}
+.email_password{ width:200px; height:25px; font-family:"Century Gothic"; font-size:14px; border:1px solid #dbdbdb; margin:5px 0 0 0; border-radius:3px; -moz-border-radius:3px;}
+
+.login_button{ height:20px; padding:0 10px; background:#1599de; border-radius:5px; -moz-border-radius:5px; border:1px #1599de outset; color:#fff; font-size:12px; font-family:Arial; font-weight:bold;}
+.login_bg{ width:auto; height:318px; padding:0 5px;box-shadow: 2px 2px 2px #888888; background:#fff; border:1px solid #E8E8E8; }
+.forgot_register{ font-size:13px;}
+.forgot_register a{ text-decoration:none; color:#5e5e5e;}
+.forgot_register a:hover{
+	color:#C5C5C5;
+}
+
+
+
+.search_table{ border:1px inset #D6D6D6; text-align:center; color:#21678f; font-family:Arial, Helvetica, sans-serif; font-size:12px;}
+.search_main_div{ float:right; width:230px; min-height:318px; height:auto; margin:0 0 0 20px; padding:15px 15px; font-family:Arial; font-size:12px;box-shadow: 5px 5px 5px #888888; border:1px solid #dadada; }

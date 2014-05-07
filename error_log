@@ -1,0 +1,203 @@
+[23-Sep-2013 22:51:26] PHP Parse error:  syntax error, unexpected $end in /home/joca1983/public_html/signup_ac.php on line 184
+[23-Sep-2013 22:53:18] PHP Parse error:  syntax error, unexpected $end in /home/joca1983/public_html/signup_ac.php on line 183
+[23-Sep-2013 22:55:15] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joca1983/public_html/signup_ac.php on line 25
+[23-Sep-2013 22:55:15] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/signup_ac.php on line 26
+[23-Sep-2013 22:56:11] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/signup_ac.php on line 25
+[23-Sep-2013 22:56:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/joca1983/public_html/signup_ac.php on line 26
+[23-Sep-2013 23:00:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'joca1983'@'localhost' (using password: NO) in /home/joca1983/public_html/signup_ac.php on line 165
+[23-Sep-2013 23:00:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/joca1983/public_html/signup_ac.php on line 165
+[23-Sep-2013 23:11:03] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/joca1983/public_html/confirmation.php on line 1
+[23-Sep-2013 23:11:47] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/joca1983/public_html/confirmation.php on line 1
+[23-Sep-2013 23:40:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joca1983/public_html/confirmation.php on line 92
+[24-Sep-2013 00:20:33] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/joca1983/public_html/confirmation.php on line 23
+[24-Sep-2013 01:36:37] PHP Parse error:  syntax error, unexpected T_IF in /home/joca1983/public_html/confirmation.php on line 48
+[24-Sep-2013 01:37:58] PHP Parse error:  syntax error, unexpected T_IF in /home/joca1983/public_html/confirmation.php on line 36
+[24-Sep-2013 01:52:10] PHP Parse error:  syntax error, unexpected T_IF in /home/joca1983/public_html/confirmation.php on line 36
+[24-Sep-2013 01:52:24] PHP Parse error:  syntax error, unexpected T_IF in /home/joca1983/public_html/confirmation.php on line 36
+[24-Sep-2013 01:53:12] PHP Parse error:  syntax error, unexpected T_IF in /home/joca1983/public_html/confirmation.php on line 36
+[24-Sep-2013 01:54:10] PHP Parse error:  syntax error, unexpected T_IF in /home/joca1983/public_html/confirmation.php on line 36
+[24-Sep-2013 01:54:14] PHP Parse error:  syntax error, unexpected T_IF in /home/joca1983/public_html/confirmation.php on line 36
+[24-Sep-2013 01:55:29] PHP Parse error:  syntax error, unexpected T_IF in /home/joca1983/public_html/confirmation.php on line 36
+[24-Sep-2013 01:55:30] PHP Parse error:  syntax error, unexpected T_IF in /home/joca1983/public_html/confirmation.php on line 36
+[24-Sep-2013 01:55:33] PHP Parse error:  syntax error, unexpected T_IF in /home/joca1983/public_html/confirmation.php on line 36
+[24-Sep-2013 01:55:37] PHP Parse error:  syntax error, unexpected T_IF in /home/joca1983/public_html/confirmation.php on line 36
+[24-Sep-2013 01:55:47] PHP Parse error:  syntax error, unexpected T_IF in /home/joca1983/public_html/confirmation.php on line 36
+[24-Sep-2013 01:57:08] PHP Parse error:  syntax error, unexpected T_IF in /home/joca1983/public_html/confirmation.php on line 36
+[24-Sep-2013 01:59:36] PHP Parse error:  syntax error, unexpected '}' in /home/joca1983/public_html/confirmation.php on line 120
+[24-Sep-2013 02:00:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/joca1983/public_html/confirmation.php on line 39
+[24-Sep-2013 02:00:23] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/joca1983/public_html/confirmation.php on line 39
+[24-Sep-2013 02:04:51] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/confirmation.php on line 33
+[24-Sep-2013 02:04:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/joca1983/public_html/confirmation.php on line 34
+[24-Sep-2013 02:07:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/joca1983/public_html/confirmation.php on line 40
+[24-Sep-2013 02:09:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'joca1983'@'localhost' (using password: NO) in /home/joca1983/public_html/confirmation.php on line 33
+[24-Sep-2013 02:09:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/joca1983/public_html/confirmation.php on line 33
+[24-Sep-2013 03:57:35] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 49
+[24-Sep-2013 03:57:35] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 51
+[24-Sep-2013 03:57:47] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 49
+[24-Sep-2013 03:57:47] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 51
+[24-Sep-2013 03:57:47] PHP Notice:  Could not connect to MySQL: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/joca1983/public_html/jobseeker_profile.php on line 202
+[24-Sep-2013 03:57:47] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 205
+[24-Sep-2013 03:57:47] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 03:57:51] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 49
+[24-Sep-2013 03:57:51] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 51
+[24-Sep-2013 03:57:51] PHP Notice:  Could not connect to MySQL: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/joca1983/public_html/jobseeker_profile.php on line 202
+[24-Sep-2013 03:57:51] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 205
+[24-Sep-2013 03:57:51] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 03:57:56] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 49
+[24-Sep-2013 03:57:56] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 51
+[24-Sep-2013 03:57:56] PHP Notice:  Could not connect to MySQL: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/joca1983/public_html/jobseeker_profile.php on line 202
+[24-Sep-2013 03:57:56] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 205
+[24-Sep-2013 03:57:56] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 04:00:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 49
+[24-Sep-2013 04:00:37] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 51
+[24-Sep-2013 04:00:42] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 49
+[24-Sep-2013 04:00:42] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 51
+[24-Sep-2013 04:07:47] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 49
+[24-Sep-2013 04:07:47] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 51
+[24-Sep-2013 04:07:47] PHP Notice:  Could not connect to MySQL: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/joca1983/public_html/jobseeker_profile.php on line 202
+[24-Sep-2013 04:07:47] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 205
+[24-Sep-2013 04:07:47] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 04:07:53] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 49
+[24-Sep-2013 04:07:53] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 51
+[24-Sep-2013 04:07:53] PHP Notice:  Could not connect to MySQL: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/joca1983/public_html/jobseeker_profile.php on line 202
+[24-Sep-2013 04:07:53] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 205
+[24-Sep-2013 04:07:53] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 04:26:02] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/joca1983/public_html/process_add_job.php on line 56
+[24-Sep-2013 04:33:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/joca1983/public_html/process_add_job.php on line 56
+[24-Sep-2013 04:33:55] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/joca1983/public_html/process_add_job.php on line 56
+[24-Sep-2013 04:51:07] PHP Parse error:  syntax error, unexpected '=' in /home/joca1983/public_html/process_apply.php on line 67
+[24-Sep-2013 04:55:12] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 04:55:15] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 04:55:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 04:55:31] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 04:57:24] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 04:57:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 04:57:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 04:58:29] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 04:58:30] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 04:58:30] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 04:58:31] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 04:58:31] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:11:28] PHP Notice:  Could not connect to MySQL: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/joca1983/public_html/jobseeker_profile.php on line 202
+[24-Sep-2013 05:11:28] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 205
+[24-Sep-2013 05:11:28] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:11:34] PHP Notice:  Could not connect to MySQL: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/joca1983/public_html/jobseeker_profile.php on line 202
+[24-Sep-2013 05:11:34] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 205
+[24-Sep-2013 05:11:34] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:11:44] PHP Notice:  Could not connect to MySQL: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/joca1983/public_html/jobseeker_profile.php on line 202
+[24-Sep-2013 05:11:44] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 205
+[24-Sep-2013 05:11:44] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:11:45] PHP Notice:  Could not connect to MySQL: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/joca1983/public_html/jobseeker_profile.php on line 202
+[24-Sep-2013 05:11:45] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 205
+[24-Sep-2013 05:11:45] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:12:18] PHP Notice:  Could not connect to MySQL: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/joca1983/public_html/jobseeker_profile.php on line 202
+[24-Sep-2013 05:12:18] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 205
+[24-Sep-2013 05:12:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:12:20] PHP Notice:  Could not connect to MySQL: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/joca1983/public_html/jobseeker_profile.php on line 202
+[24-Sep-2013 05:12:20] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 205
+[24-Sep-2013 05:12:20] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:12:57] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 53
+[24-Sep-2013 05:13:02] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 53
+[24-Sep-2013 05:13:04] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 53
+[24-Sep-2013 05:13:04] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 53
+[24-Sep-2013 05:13:05] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 53
+[24-Sep-2013 05:13:05] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 53
+[24-Sep-2013 05:13:37] PHP Notice:  Could not connect to MySQL: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/joca1983/public_html/jobseeker_profile.php on line 202
+[24-Sep-2013 05:13:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 205
+[24-Sep-2013 05:13:37] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:13:39] PHP Notice:  Could not connect to MySQL: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/joca1983/public_html/jobseeker_profile.php on line 202
+[24-Sep-2013 05:13:39] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 205
+[24-Sep-2013 05:13:39] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:16:38] PHP Notice:  Could not connect to MySQL: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/joca1983/public_html/jobseeker_profile.php on line 202
+[24-Sep-2013 05:16:38] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 205
+[24-Sep-2013 05:16:38] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:18:35] PHP Notice:  Could not connect to MySQL: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/joca1983/public_html/jobseeker_profile.php on line 202
+[24-Sep-2013 05:18:35] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 205
+[24-Sep-2013 05:18:35] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:18:37] PHP Notice:  Could not connect to MySQL: Unknown MySQL server host 'DATABASE_HOST' (25) in /home/joca1983/public_html/jobseeker_profile.php on line 202
+[24-Sep-2013 05:18:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 205
+[24-Sep-2013 05:18:37] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:19:13] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 51
+[24-Sep-2013 05:19:17] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 51
+[24-Sep-2013 05:27:19] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 43
+[24-Sep-2013 05:27:22] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 43
+[24-Sep-2013 05:27:24] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 43
+[24-Sep-2013 05:27:24] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 43
+[24-Sep-2013 05:27:26] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 43
+[24-Sep-2013 05:27:27] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 43
+[24-Sep-2013 05:27:27] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 43
+[24-Sep-2013 05:27:31] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 43
+[24-Sep-2013 05:28:55] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/joca1983/public_html/includes/top.inc.php on line 43
+[24-Sep-2013 05:31:07] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 53
+[24-Sep-2013 05:31:49] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_home.php on line 111
+[24-Sep-2013 05:31:52] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_home.php on line 111
+[24-Sep-2013 05:31:55] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_home.php on line 111
+[24-Sep-2013 05:31:57] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:31:58] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:32:47] PHP Warning:  Unterminated comment starting line 58 in /home/joca1983/public_html/includes/top.inc.php on line 58
+[24-Sep-2013 05:32:47] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/joca1983/public_html/includes/top.inc.php on line 58
+[24-Sep-2013 05:33:16] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 05:33:16] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:33:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 05:33:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:34:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 05:34:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:34:16] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 05:34:16] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:34:16] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 05:34:16] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:34:19] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 05:34:19] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:34:20] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 05:34:20] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:34:22] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 05:34:22] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:34:22] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 05:34:22] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:34:24] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 05:34:24] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:34:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 05:34:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:35:12] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 05:35:12] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:35:13] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/includes/top.inc.php on line 52
+[24-Sep-2013 05:35:13] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:39:56] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:39:59] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:40:02] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:40:03] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:42:08] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:42:10] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:42:12] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:42:13] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:42:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:42:16] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:42:19] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:42:20] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:44:03] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:44:05] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:44:06] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:44:08] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:44:08] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:44:10] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:44:54] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:45:15] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:45:21] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:46:22] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 05:46:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joca1983/public_html/jobseeker_profile.php on line 206
+[24-Sep-2013 22:59:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joca1983/public_html/file_download.php:33) in /home/joca1983/public_html/file_download.php on line 106
+[24-Sep-2013 22:59:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joca1983/public_html/file_download.php:33) in /home/joca1983/public_html/file_download.php on line 108
+[24-Sep-2013 22:59:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joca1983/public_html/file_download.php:33) in /home/joca1983/public_html/file_download.php on line 117
+[24-Sep-2013 22:59:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joca1983/public_html/file_download.php:33) in /home/joca1983/public_html/file_download.php on line 118
+[24-Sep-2013 22:59:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joca1983/public_html/file_download.php:33) in /home/joca1983/public_html/file_download.php on line 120
+[24-Sep-2013 22:59:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joca1983/public_html/file_download.php:33) in /home/joca1983/public_html/file_download.php on line 121
+[24-Sep-2013 23:00:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joca1983/public_html/file_download.php:33) in /home/joca1983/public_html/file_download.php on line 147
+[24-Sep-2013 23:05:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joca1983/public_html/file_download.php:35) in /home/joca1983/public_html/file_download.php on line 108
+[24-Sep-2013 23:05:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joca1983/public_html/file_download.php:35) in /home/joca1983/public_html/file_download.php on line 110
+[24-Sep-2013 23:05:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joca1983/public_html/file_download.php:35) in /home/joca1983/public_html/file_download.php on line 119
+[24-Sep-2013 23:05:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joca1983/public_html/file_download.php:35) in /home/joca1983/public_html/file_download.php on line 120
+[24-Sep-2013 23:05:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joca1983/public_html/file_download.php:35) in /home/joca1983/public_html/file_download.php on line 122
+[24-Sep-2013 23:05:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joca1983/public_html/file_download.php:35) in /home/joca1983/public_html/file_download.php on line 123
+[24-Sep-2013 23:05:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joca1983/public_html/file_download.php:35) in /home/joca1983/public_html/file_download.php on line 149
+[24-Sep-2013 23:08:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joca1983/public_html/file_download.php:35) in /home/joca1983/public_html/file_download.php on line 149
+[26-Sep-2013 00:40:57] PHP Parse error:  syntax error, unexpected T_ELSE in /home/joca1983/public_html/signup_ac.php on line 183

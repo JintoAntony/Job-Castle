@@ -1,0 +1,40 @@
+.content
+{
+	margin: 0px 0px;
+}
+
+.content a
+{
+	color: #fff;
+}
+
+
+.content p.linkage
+{
+	margin-top: 2em;
+	text-align: right;
+	font-size: 1.7em;
+	color: #ddd;
+}
+
+.content p.linkage a { color: #fff; }
+
+/*.content p.linkage a
+{
+	color: #fff;
+	background: url('../images/bg/biglink_off.gif') center right no-repeat;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+
+.content p.linkage a:hover
+{
+	background: url('../images/bg/biglink_on.gif') center right no-repeat;
+	font-style: italic;
+}*/
+
+#myGallery
+{
+	text-align: left;
+	margin: 0 auto;
+}
